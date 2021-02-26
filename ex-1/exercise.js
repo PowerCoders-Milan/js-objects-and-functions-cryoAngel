@@ -16,3 +16,4 @@ var user = new user(prompt('enter a name'), prompt('enter a verbe'), prompt('ent
 
 
 window.alert('was man called'+" "+ user.name1 +" "+ 'he was'+" "+ user.verbe +" "+ 'but very'+" "+ user.adverb +" "+ 'unfortunatelly' +" "+ user.adjectif);
+console.log('was man called'+" "+ user.name1 +" "+ 'he was'+" "+ user.verbe +" "+ 'but very'+" "+ user.adverb +" "+ 'unfortunatelly' +" "+ user.adjectif);
