@@ -6,7 +6,7 @@ console.log('My choice #1 is'+" "+choices[0])
 //console.log(choices[1])
 //console.log(choices[2])
 
-/*function choices (type , location, prices){
+function choices (type , location, prices){
     this.type = type;
     this.location = location;
     this.prices = prices;
@@ -20,7 +20,7 @@ console.log(ananas.type)
 window.alert("mango location:"+" "+mango.location );
 window.alert( "passi fruits price:"+" "+ passion.prices);
 window.alert("ananas origin:" +" "+ananas.type);
-*/
+
 
 
 
