@@ -2,7 +2,7 @@
 
 
   var text;
-  var words = prompt('HelloWorld',"english" );
+  var words = prompt('enter a HelloWorld',"english" );
   switch(words) {
     case "english":
       text = "Hello world";
@@ -16,10 +16,18 @@
     default:
       text = "hello world";
   }
-  function helloWorld(){
-
-  }
   window.alert(text);
   console.log(text);
 
-
+ /*function helloWorld(en, it, fr,){
+      this.en = function (){
+       console.log('hello world');
+      };
+      this.it = function(){
+        console.log('buongiorno mondo');
+      };
+      this.fr = function(){
+        console.log('salut le monde');
+      };
+ }*/
+var 
