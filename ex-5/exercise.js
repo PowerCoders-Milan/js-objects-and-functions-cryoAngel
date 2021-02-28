@@ -1,6 +1,6 @@
 
 
-
+function helloWorld(){
   var text;
   var words = prompt('enter a HelloWorld',"english" );
   switch(words) {
@@ -18,16 +18,6 @@
   }
   window.alert(text);
   console.log(text);
+}
 
- /*function helloWorld(en, it, fr,){
-      this.en = function (){
-       console.log('hello world');
-      };
-      this.it = function(){
-        console.log('buongiorno mondo');
-      };
-      this.fr = function(){
-        console.log('salut le monde');
-      };
- }*/
-var 
+helloWorld();
